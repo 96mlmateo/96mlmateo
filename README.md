@@ -36,4 +36,4 @@ Currently enhancing my skills in data modeling, cloud data infrastructure, and m
 
 ## 📬 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/mateo-mart%C3%ADnez-l%C3%B3pez-bdbi/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateo-mart%C3%ADnez-l%C3%B3pez-bdbi/)
